@@ -1,0 +1,26 @@
+img, embed, object, video {
+  max-width:100%;
+}
+
+html, body {
+  min-height:100%;
+  margin:0px;
+}
+
+body {
+  padding-top:300px;
+  background:linear-gradient(to bottom, black 0%, #444 80%);
+}
+
+p {
+  color:#fff;
+  font-family:"Roboto";
+  font-weight:300;
+  font-size:16px;
+}
+
+.header_1 {
+  color:#fff;
+  font-family:"Roboto Mono";
+  font-weight:500;
+}

@@ -1,0 +1,48 @@
+.fat-munkey-button {
+  display:inline-block;
+  margin:5px;
+  outline:none;
+  cursor:pointer;
+  text-align:center;
+  text-decoration:none;
+  font-family:"Roboto";
+  font-weight:800;
+  background-image:linear-gradient(to bottom right, black, blue);
+}
+
+.fat-munkey-button:hover {
+  background:#f47c20;
+  background-image:linear-gradient(to bottom right, blue, black);
+}
+
+.fat-munkey-button:active {
+  background-image:linear-gradient(to bottom right, red, orange);
+  position:relative;
+  top:2px;
+}
+
+.fmb-text {
+  padding:7px;
+}
+
+.fat-munkey-footer {
+  padding:40px 0;
+  background-color:black;
+}
+
+.fat-munkey-footer ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.fat-munkey-footer .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
