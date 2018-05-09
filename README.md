@@ -15,7 +15,7 @@ The smoothscrolling effect is something that I like and I wanted to see how it w
 
 The other small bit of JQuery in my index.js file is me trying to figure out how to get the youtube embed to stop playing when the user clicks out of the modal window.  I used a bit of DOM manipulation to remove the video source and add it back in for the next time the user clicks on the video link without refreshing the page.  My solution probably is not the best solution, but it seems to work.  I only tested on in chrome.
 
-The classical drawings are from an old book by charles Bargue which is available for download and use all over the place.  I downloaded the PDF file here ttps://www.scribd.com/doc/316611362/Charles-Bargue-Drawing-Course-pdf.  Of course I have no intention of actually using these images for anything other than this class project.
+The classical drawings are from an old book by Charles Bargue which is available for download and use all over the place.  I downloaded the PDF file here ttps://www.scribd.com/doc/316611362/Charles-Bargue-Drawing-Course-pdf.  Of course I have no intention of actually using these images for anything other than this class project.
 
 The Clint Eastwod drawing and the animation video of my Aunt Nancy are my creations.  Obviously, the song in my video is not mine!  It is "Aint No Sunshine" by Bill Withers.  I love the song, and I thought it was appropriate to the video back when I made it a couple of years ago.  No one has complained about me using the song so I guess it's probably "ok-ish" that I used it.  The video is not monitized in anyway by me.  
 
